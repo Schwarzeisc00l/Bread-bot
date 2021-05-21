@@ -9,7 +9,7 @@ You will need nodejs.
 Download it from https://nodejs.org/en/download/ if you are using Windows.
 
 
-sudo apt install nodejs for Linux.
+**sudo apt install nodejs** for Linux.
 
 
 Create a folder, drag everything inside and then right click and open as command windows in Windows and open in Terminal for Linux.
