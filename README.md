@@ -28,4 +28,4 @@ https://www.windowscentral.com/how-create-and-run-batch-file-windows-10
 https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/
 
 I believe in the power of Open Source.
-
+Note: I didn't code this bot. Credits to (っ◔◡◔)っ#1501 on Discord.
